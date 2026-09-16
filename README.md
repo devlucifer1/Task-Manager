@@ -57,7 +57,7 @@ Before running the project, you need:
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/Task-Manager.git
+git clone https://github.com/devlucifer1/Task-Manager.git
 
 2. Enter the project directory
 
